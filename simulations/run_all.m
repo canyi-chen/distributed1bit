@@ -1,0 +1,7 @@
+function run_all
+compare_iterations
+compare_local_sample_size
+compare_total_sample_size
+compare_heterogeneity_sigma
+compare_sparsity
+end

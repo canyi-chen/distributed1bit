@@ -1,0 +1,15 @@
+[submodule "solvers/Ql1-Algorithm"]
+	path = solvers/Ql1-Algorithm
+	url = https://github.com/stefanks/Ql1-Algorithm.git
+[submodule "solvers/glmnet"]
+	path = solvers/glmnet
+	url = https://github.com/growlix/glmnet_matlab.git
+[submodule "solvers/glmnet_matlab"]
+	path = solvers/glmnet_matlab
+	url = https://github.com/growlix/glmnet_matlab.git
+[submodule "utilities/latexTable"]
+	path = utilities/latexTable
+	url = https://github.com/eliduenisch/latexTable.git
+[submodule "matlab/utilities/latexTable"]
+	path = matlab/utilities/latexTable
+	url = https://github.com/eliduenisch/latexTable.git
