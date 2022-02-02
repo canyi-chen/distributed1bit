@@ -1,9 +1,14 @@
 % -------------------------------------------------------------------------
+
 This is a Matlab package for Distributed Decoding from Heterogeneous 1-bit 
 Compressive Measurements. 
 (version 1.0). 
 This package is  maintained by [name removed]
+
 % -------------------------------------------------------------------------
+
+
+
 All files for reproducing the numerical results in the paper 
 "Distributed Decoding from Heterogeneous 1-bit Compressive Measurements" are relegated to simulations subdirectory. We assume the root folder is the same folder the README.md resides in. Before you run each script to reproduce the numerical results in the paper, you shall add all the sub-folders into the search path by executing in Matlab
 
@@ -34,7 +39,10 @@ bash main.sh
 
 
 
+
+
 % -------------------------------------------------------------------------
+
 If you have any questions or find any buggs please contact [email removed]. Thank you.
 
 
